@@ -1,2 +1,2 @@
-# 262_-CalculadoraPartidasRankeadas
+# 262_CalculadoraPartidasRankeadas
  Calculadora de Partidas Rankeadas
